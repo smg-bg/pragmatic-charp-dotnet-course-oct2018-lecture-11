@@ -1,2 +1,2 @@
-# pragmatic-charp-dotnet-course-oct2018-lecture-11
-Samples from lecture 11
+# Pragmatic C# and .NET Course October 2018 Lecture 11
+
